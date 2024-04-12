@@ -6,3 +6,4 @@ I am adding this line from RStudio to check if it is reflected in the Github.
 
 Checking if my RStudio is connected to the Git. 
 
+Checking if changes made from the Github browser are reflected in the local git through RStudio. 
