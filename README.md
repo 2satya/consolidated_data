@@ -4,5 +4,5 @@ I am downloading the data from AWS S3 and cleaning and appending the data. Aim i
 
 I am adding this line from RStudio to check if it is reflected in the Github.
 
-The world is flat says some. vjhasvfv
+Checking if my RStudio is connected to the Git. 
 
